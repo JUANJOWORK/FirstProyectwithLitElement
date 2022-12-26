@@ -44,7 +44,7 @@ export class RickMortyApi extends LitElement {
     <main class="container">
       ${this.dateTemplate}
     
-    
+
     </main>
     `;
   }
